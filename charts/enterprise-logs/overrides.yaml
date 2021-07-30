@@ -1,0 +1,2 @@
+config:
+  cluster_name: enterprise-logs-test-fixture
